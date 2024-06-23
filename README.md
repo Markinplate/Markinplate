@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Markinplate
 - 👀 I’m interested in many things, hard to find somrthing i don't like btw
-- 🌱 I’m currently learning Lua & Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything, ANYTHING !
 - 📫 How to reach me enzodebiane77@gmail.com 
 - 😄 Pronouns: C R O I S S A N T 
